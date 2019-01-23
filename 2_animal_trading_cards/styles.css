@@ -1,0 +1,44 @@
+.card {
+    width: 330px;
+    box-shadow: 10px 10px 5px #ccc;
+    border: thin solid #ccc;
+    border-radius: 15px;
+}
+
+.card-title {
+    text-transform: capitalize;
+    margin: 15px;
+}
+
+img {
+    margin: 0px 15px;
+}
+
+.card-content {
+    border: thin solid #ccc;
+    margin: 15px;
+    padding: 0px 10px;
+    font-size: small;
+}
+
+.curiosity-text {
+    font-style: italic;
+}
+
+.description {
+    text-align: justify;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    list-style: none;
+}
+
+.list-label {
+    font-weight: bold;
+    text-transform: capitalize;
+}
