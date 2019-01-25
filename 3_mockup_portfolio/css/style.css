@@ -1,0 +1,74 @@
+body {
+    font-family: 'Nunito', sans-serif;
+    color: #57575a;
+    font-weight: 300;
+}
+
+hr {
+    border: 1px solid #a8a8a8;
+}
+
+a {
+    color: #858585;    
+}
+
+article {
+    margin-top: 15px;
+}
+
+span {
+    color: black;
+}
+
+footer {
+    margin-top: 20px;
+}
+
+.featured-title {
+    color: #a8a8a8;
+}
+
+.text-thin {
+    font-weight: 200;
+}
+
+.title-header {
+    font-size: 45px;
+}
+
+.title-text {
+    text-align: right;
+}
+
+.logo-img {
+    margin-top: 20px;
+}
+
+.social-icon{
+    color: rgb(29, 29, 29);
+    padding: 2px;
+}
+
+@media screen and (max-width:800px) {
+
+    .title-text,
+    .featured-title {
+        text-align: center;
+    }
+
+    footer {
+        font-size: 1.5em;
+    }
+}
+
+@media screen and (max-width:450px) {
+
+    .title-header {
+        font-size: 2em;
+    }
+
+    .featured-title {
+        font-size: 1.5em;
+        text-align: center;
+    }
+}
