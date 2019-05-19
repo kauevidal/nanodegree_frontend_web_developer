@@ -9,4 +9,6 @@ a live demonstration of each project on the folowing links:
 
 [Mockup to portfolio](https://kauevidal.github.io/nanodegree_frontend_web_developer/3_mockup_portfolio/)
 
-[Online Resume](https://kauevidal.github.io/nanodegree_frontend_web_developer/4_resume_project/)
+[Online resume](https://kauevidal.github.io/nanodegree_frontend_web_developer/4_resume_project/)
+
+[Classic Arcade Game](https://kauevidal.github.io/nanodegree_frontend_web_developer/4_classic_arcade_game/)
