@@ -8,3 +8,5 @@ a live demonstration of each project on the folowing links:
 [Animal trading cards](https://kauevidal.github.io/nanodegree_frontend_web_developer/2_animal_trading_cards/)
 
 [Mockup to portfolio](https://kauevidal.github.io/nanodegree_frontend_web_developer/3_mockup_portfolio/)
+
+[Online Resume](https://kauevidal.github.io/nanodegree_frontend_web_developer/4_resume_project/)
